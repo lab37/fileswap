@@ -1,29 +1,27 @@
-{
-"indexs" : [
+[
   {
-    indexId: "i01",
-    indexName: "自助检查处理",
-    indexImg: "/img/menu/qingli.jpg"
+    "indexId": "i01",
+    "indexName": "自助检查处理",
+    "indexImg": "/img/menu/qingli.jpg"
   }, {
-    indexId: "i02",
-    indexName: "人工指导维修",
-    indexImg: "/img/menu/youhua.jpg"
+    "indexId": "i02",
+    "indexName": "人工指导维修",
+    "indexImg": "/img/menu/youhua.jpg"
   }, {
-    indexId: "i03",
-    indexName: "装配方案推荐",
-    indexImg: "/img/menu/zuzhuang.jpg"
+    "indexId": "i03",
+    "indexName": "装配方案推荐",
+    "indexImg": "/img/menu/zuzhuang.jpg"
   }, {
-    indexId: "i04",
-    indexName: "系统安装预约",
-    indexImg: "/img/menu/xitong.jpg"
+    "indexId": "i04",
+    "indexName": "系统安装预约",
+    "indexImg": "/img/menu/xitong.jpg"
   }, {
-    indexId: "i05",
-    indexName: "网络布线预约",
-    indexImg: "/img/menu/wangluo.jpg"
+    "indexId": "i05",
+    "indexName": "网络布线预约",
+    "indexImg": "/img/menu/wangluo.jpg"
   }, {
-    indexId: "i06",
-    indexName: "外包项目预约",
-    indexImg: "/img/menu/waibao.jpg"
+    "indexId": "i06",
+    "indexName": "外包项目预约",
+    "indexImg": "/img/menu/waibao.jpg"
   }
 ]
-}
