@@ -2,27 +2,27 @@
 "indexs" : [
   {
     indexId: "i01",
-    indexName: "×ÔÖú¼ì²é´¦Àí",
+    indexName: "è‡ªåŠ©æ£€æŸ¥å¤„ç†",
     indexImg: "/img/menu/qingli.jpg"
   }, {
     indexId: "i02",
-    indexName: "ÈË¹¤Ö¸µ¼Î¬ĞŞ",
+    indexName: "äººå·¥æŒ‡å¯¼ç»´ä¿®",
     indexImg: "/img/menu/youhua.jpg"
   }, {
     indexId: "i03",
-    indexName: "×°Åä·½°¸ÍÆ¼ö",
+    indexName: "è£…é…æ–¹æ¡ˆæ¨è",
     indexImg: "/img/menu/zuzhuang.jpg"
   }, {
     indexId: "i04",
-    indexName: "ÏµÍ³°²×°Ô¤Ô¼",
+    indexName: "ç³»ç»Ÿå®‰è£…é¢„çº¦",
     indexImg: "/img/menu/xitong.jpg"
   }, {
     indexId: "i05",
-    indexName: "ÍøÂç²¼ÏßÔ¤Ô¼",
+    indexName: "ç½‘ç»œå¸ƒçº¿é¢„çº¦",
     indexImg: "/img/menu/wangluo.jpg"
   }, {
     indexId: "i06",
-    indexName: "Íâ°üÏîÄ¿Ô¤Ô¼",
+    indexName: "å¤–åŒ…é¡¹ç›®é¢„çº¦",
     indexImg: "/img/menu/waibao.jpg"
   }
 ]
