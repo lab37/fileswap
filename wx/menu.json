@@ -4,55 +4,55 @@
 	"indexId":"i01",
 	"menuId": "i01m01",
 	"menuName": "系统综合",
-	"menuImg": "/img/img/xitonganquan.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/xitonganquan.jpg"
 	  }, {
 	"indexId": "i01",
 	"menuId": "i01m02",
 	"menuName": "桌面问题",
-	"menuImg": "/img/img/zhuomian.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/zhuomian.jpg"
 	  }, {
 	"indexId": "i01",
 	"menuId": "i01m03",
 	"menuName": "启动运行",
-	"menuImg": "/img/img/qidong.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/qidong.jpg"
 	  }, {
 	"indexId": "i01",
 	"menuId": "i01m04",
 	"menuName": "网络连接",
-	"menuImg": "/img/menu/wangluo.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/menu/wangluo.jpg"
 	  }, {
 	"indexId": "i01",
 	"menuId": "i01m05",
 	"menuName": "电源故障",
-	"menuImg": "/img/img/dianyuan.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/dianyuan.jpg"
 	  }, {
 	"indexId": "i01",
 	"menuId": "i01m06",
 	"menuName": "外设故障",
-	"menuImg": "/img/img/waishe.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/waishe.jpg"
 	  }, {
 	"indexId": "i01",
 	"menuId": "i01m07",
 	"menuName": "蓝屏黑屏",
-	"menuImg": "/img/img/lanping.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/lanping.jpg"
 	  }, {
 	"indexId": "i01",
 	"menuId": "i01m08",
 	"menuName": "软件游戏",
-	"menuImg": "/img/img/ruanjian.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/ruanjian.jpg"
 	  
 	  },
 	  {
 	"indexId": "i01",
 	"menuId": "i01m10",
 	"menuName": "打印机",
-	"menuImg": "/img/img/dayinji.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/dayinji.jpg"
 	  },
 	  {
 	"indexId": "i01",
 	"menuId": "i01m11",
 	"menuName": "笔记本",
-	"menuImg": "/img/img/bijiben.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/bijiben.jpg"
 	  }
 	]
 
@@ -61,92 +61,92 @@
 	"indexId": "i03",
 	"menuId": "i03m01",
 	"menuName": "台式机",
-	"menuImg": "/img/img/taishiji.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/taishiji.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m02",
 	"menuName": "笔记本",
-	"menuImg": "/img/img/bijiben.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/bijiben.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m03",
 	"menuName": "一体机",
-	"menuImg": "/img/img/yitiji.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/yitiji.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m04",
 	"menuName": "显示器",
-	"menuImg": "/img/img/xianshiqi.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/xianshiqi.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m05",
 	"menuName": "显卡",
-	"menuImg": "/img/img/xianka.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/xianka.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m06",
 	"menuName": "主板",
-	"menuImg": "/img/img/zhuban.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/zhuban.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m07",
 	"menuName": "CPU",
-	"menuImg": "/img/img/CPU.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/CPU.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m08",
 	"menuName": "内存条",
-	"menuImg": "/img/img/neicun.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/neicun.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m09",
 	"menuName": "硬盘",
-	"menuImg": "/img/img/ssd.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/ssd.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m10",
 	"menuName": "电源",
-	"menuImg": "/img/img/dianyuan.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/dianyuan.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m11",
 	"menuName": "机箱",
-	"menuImg": "/img/img/jixiang.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/jixiang.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m12",
 	"menuName": "键盘",
-	"menuImg": "/img/img/jianpan.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/jianpan.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m13",
 	"menuName": "鼠标",
-	"menuImg": "/img/img/shubiao.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/shubiao.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m14",
 	"menuName": "路由器",
-	"menuImg": "/img/img/luyouqi.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/luyouqi.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m15",
 	"menuName": "宽带猫",
-	"menuImg": "/img/img/kuandai.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/kuandai.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m16",
 	"menuName": "网线",
-	"menuImg": "/img/img/wangxian.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/wangxian.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m17",
 	"menuName": "机顶盒",
-	"menuImg": "/img/img/jidinghe.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/jidinghe.jpg"
 	  }, {
 	"indexId": "i03",
 	"menuId": "i03m18",
 	"menuName": "扩展设备",
-	"menuImg": "/img/img/youxizhuangbei.jpg"
+	"menuImg": "https://www.yiyaoshuju.cn/wx/img/youxizhuangbei.jpg"
 	  }
 	]
 }
