@@ -1,0 +1,22 @@
+[
+  {
+    "indexId": "i01",
+    "indexName": "品种搓和中心",
+    "indexImg": "https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/tiaozao.jpg"
+  },
+  {
+    "indexId": "i02",
+    "indexName": "买卖信息登记",
+    "indexImg": "https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/dengji.jpg"
+  },
+  {
+    "indexId": "i03",
+    "indexName": "报表问题集锦",
+    "indexImg": "https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/baobiao.jpg"
+  },
+  {
+    "indexId": "i04",
+    "indexName": "常用工具集锦",
+    "indexImg": "https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/tools.jpg"
+  }
+]
