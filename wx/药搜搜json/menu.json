@@ -4,12 +4,12 @@
 	"indexId":"i01",
 	"menuId":"i01m01",
 	"menuName":"人才名录",
-	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_rencai.jpg"
+	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_talents_list.jpg"
 	},{
 	"indexId":"i01",
 	"menuId":"i01m02",
 	"menuName":"品种集市",
-	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_pinzhongjishi.jpg"
+	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_variety_shop.jpg"
 	}
 	],
 
@@ -18,12 +18,12 @@
 	"indexId":"i02",
 	"menuId":"i02m01",
 	"menuName":"寻找人才",
-	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_xunzhaorencai.jpg"
+	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_find_talents.jpg"
 	},{
 	"indexId":"i02",
 	"menuId":"i02m02",
 	"menuName":"寻找品种",
-	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_xunzhaopinzhong.jpg"
+	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_find_variety.jpg"
 	}
 	],
 
@@ -32,12 +32,12 @@
 	"indexId":"i03",
 	"menuId":"i03m01",
 	"menuName":"excel相关",
-	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_gonshishuoming.jpg"
+	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_soft_skill.jpg"
 	},{
 	"indexId":"i03",
 	"menuId":"i03m02",
 	"menuName":"人工帮助",
-	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_rengongbangzhu.jpg"
+	"menuImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/menu_manual_svc.jpg"
 	}
 	]
 }
