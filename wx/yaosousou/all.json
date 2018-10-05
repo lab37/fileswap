@@ -108,7 +108,7 @@
 "menuName":"excel相关",
 "allName":"公式说明",
 "allImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/soft_skill/1.jpg",
-"allCon":"sum 求和函数",
+"allCon":[["函数","用法","说明","备注"],["sum","sum(A3:B3)","数据求和","可用于数组"],["count","count(A3:B3)","计数","可用于数组"]],
 "tim":5,
 "water":1
 }
@@ -122,7 +122,7 @@
 "menuName":"人工帮助",
 "allName":"人工帮助说明",
 "allImg":"https://www.yiyaoshuju.cn/wx/yaosousou/img/menu/manual_svc/1.jpg",
-"allCon":"有什么问题加微信18660303073即可，具体的问题和费用和客服协商即可",
+"allCon":[["有什么问题加微信18660303073即可，具体的问题和费用和客服协商即可"]],
 "tim":5,
 "water":1
 }
