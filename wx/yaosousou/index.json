@@ -6,16 +6,11 @@
   },
   {
     "indexId": "i02",
-    "indexName": "买卖信息登记",
-    "indexImg": "https://www.yiyaoshuju.cn/wx/yaosousou/img/index/dengji.jpg"
-  },
-  {
-    "indexId": "i03",
     "indexName": "office软件技巧",
     "indexImg": "https://www.yiyaoshuju.cn/wx/yaosousou/img/index/baobiao.jpg"
   },
   {
-    "indexId": "i04",
+    "indexId": "i03",
     "indexName": "常用工具集锦",
     "indexImg": "https://www.yiyaoshuju.cn/wx/yaosousou/img/index/tools.jpg"
   }
